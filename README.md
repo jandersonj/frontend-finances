@@ -17,3 +17,15 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Guia de instalação
+
+1 - baixar o repositório
+
+2 - rodar o comando npm install
+
+3 - roda o comando npm run serve
+
+OBS: Backend da aplicação publicado na Herkou
+
