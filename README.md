@@ -25,7 +25,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 2 - rodar o comando npm install
 
-3 - roda o comando npm run serve
+3 - rodar o comando npm run serve
 
 OBS: Backend da aplicação publicado na Herkou
 
